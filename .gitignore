@@ -1,0 +1,13 @@
+.dockerignore__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.env
+.venv/
+.DS_Store
+.idea/
+.vscode/
+.dockerignore
+Dockerfile
+dev.py
